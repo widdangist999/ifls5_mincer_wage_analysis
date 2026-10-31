@@ -149,8 +149,6 @@ ifls5_mincer_wage_analysis/
 ├── paper/
 │   └── research_paper.pdf
 └── results/
-    ├── regression_results.png
-    ├── diagnostic_results.png
     └── interpretation.md
 ```
 
